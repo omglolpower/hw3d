@@ -27,4 +27,7 @@
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="src\disable_W.h_nonsense.h" />
+  </ItemGroup>
 </Project>
