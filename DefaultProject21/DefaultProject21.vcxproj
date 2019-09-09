@@ -154,11 +154,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="WindowsMessageMap.cpp" />
-    <ClCompile Include="WinMain.cpp" />
+    <ClCompile Include="src\WindowsMessageMap.cpp" />
+    <ClCompile Include="src\WinMain.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="WindowsMessageMap.h" />
+    <ClInclude Include="src\WindowsMessageMap.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="src\disable_W.h_nonsense.h" />
